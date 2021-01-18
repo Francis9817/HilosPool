@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilosPool", "HilosPool\HilosPool.csproj", "{56013411-D7D6-43D9-B20C-19BD1269583F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56013411-D7D6-43D9-B20C-19BD1269583F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56013411-D7D6-43D9-B20C-19BD1269583F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56013411-D7D6-43D9-B20C-19BD1269583F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56013411-D7D6-43D9-B20C-19BD1269583F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106CF206-2E8E-4A7A-AA7C-EE70B4267DCD}
+	EndGlobalSection
+EndGlobal
